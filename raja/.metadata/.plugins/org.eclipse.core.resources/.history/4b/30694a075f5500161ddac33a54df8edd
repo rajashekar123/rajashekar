@@ -1,0 +1,14 @@
+############## StockAccounting Homepage ####################
+
+# id property of the username field
+username=username
+# id property of the password field
+
+password=password
+
+# id peoperty of the login button
+login=btnsubmit
+
+#id property of the reset button
+
+reset=btnreset

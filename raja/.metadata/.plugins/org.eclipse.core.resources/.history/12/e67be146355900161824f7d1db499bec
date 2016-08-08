@@ -1,0 +1,12 @@
+<h2>Methods run, sorted chronologically</h2><h3>&gt;&gt; means before, &lt;&lt; means after</h3><p/><br/><em>Default suite</em><p/><small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table border="1">
+<tr><th>Time</th><th>Delta (ms)</th><th>Suite<br>configuration</th><th>Test<br>configuration</th><th>Class<br>configuration</th><th>Groups<br>configuration</th><th>Method<br>configuration</th><th>Test<br>method</th><th>Thread</th><th>Instances</th></tr>
+<tr bgcolor="ae7f61">  <td>16/08/02 10:45:21</td>   <td>0</td> <td title="&gt;&gt;Testngmaster.stockacc_Launch()[pri:0, instance:com.stocktests.Testngsuppliercreation@d5b614]">&gt;&gt;stockacc_Launch</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@10155577</td>   <td></td> </tr>
+<tr bgcolor="ae7f61">  <td>16/08/02 10:45:37</td>   <td>16244</td> <td>&nbsp;</td><td title="&gt;&gt;Testngmaster.stockAcc_Login()[pri:0, instance:com.stocktests.Testngsuppliercreation@d5b614]">&gt;&gt;stockAcc_Login</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@10155577</td>   <td></td> </tr>
+<tr bgcolor="f1c7a8">  <td>16/08/02 10:45:39</td>   <td>18660</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Testngsuppliercreation.stockAcc_Suppcre()[pri:0, instance:com.stocktests.Testngsuppliercreation@d5b614]">stockAcc_Suppcre</td> 
+  <td>main@10155577</td>   <td></td> </tr>
+<tr bgcolor="ae7f61">  <td>16/08/02 10:45:56</td>   <td>35804</td> <td>&nbsp;</td><td title="&lt;&lt;Testngmaster.stockacc_logout()[pri:0, instance:com.stocktests.Testngsuppliercreation@d5b614]">&lt;&lt;stockacc_logout</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@10155577</td>   <td></td> </tr>
+</table>
